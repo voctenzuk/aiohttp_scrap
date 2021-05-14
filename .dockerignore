@@ -1,0 +1,12 @@
+*.py[cod]
+*$py.class
+__pycache__/
+.mypy_cache/
+.vscode/
+*env/
+*ENV/
+.env.bak
+Dockerfile.bak
+.gitignore
+test.py
+projects/
